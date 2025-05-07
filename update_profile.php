@@ -30,3 +30,5 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <input type="file" name="profile_picture"><br><br>
     <button type="submit">Upload</button>
 </form>
+<br>
+    <a href="dashboard.php">Back to Dashboard</a>
